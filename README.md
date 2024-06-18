@@ -1,6 +1,6 @@
 # React Jobs Board
 
-![React Jobs Gif](https://imgur.com/a/react-jobs-m8Vvuwn)
+![React Jobs Gif](https://github.com/jyshowalter/react-job-app/blob/main/src/assets/images/ReactJobs.gif)
 
 ## How It's Made:
 
